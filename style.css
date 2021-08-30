@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=Besley:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+    font-size: 20px;
+    background-color: black ;
+}
+
+p {
+    font-size: 24px;
+    color: green;
+
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: yellowgreen;
+}
+
+h3 {
+    font-size: 38px;
+    text-align: center;
+    color: violet;
+}
+
+.linha {
+    text-decoration: underline;
+}
+.negrito {
+    font-weight: bold;
+}
+
+.primeira {
+    font-family: 'Besley',serif;
+}
+.segunda {
+    font-family: 'Lobster Two', cursive;
+}
+.terceira {
+    font-family: 'Open Sans', sans-serif;
+}
+.quarta {
+    font-family: 'Roboto Mono', monospace;
+}
+.quinta {
+    font-size: 38px;
+    font-family: 'Allison', cursive;
+}
+.especial {
+    color: white;
+    font-size: 18px;
+}
